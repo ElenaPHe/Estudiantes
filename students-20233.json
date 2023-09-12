@@ -201,5 +201,12 @@
     "dob": "2002-03-08",
     "gender": "male",
     "email": "20690089@tecvalles.mx"
+  },
+  {
+    "name": "Maria Elena",
+    "last_name": "Pérez Hernández",
+    "dob": "2002-09-17",
+    "gender": "female",
+    "email": "20690481@tecvalles.mx"
   }
 ]
